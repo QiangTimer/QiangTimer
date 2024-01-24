@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on Security of Open-source Ecosystem
 
-### 🔭 I’m currently applying LLM to SSC and cyberattacks.
+### 🔭 I’m currently applying LLM to software engineering and cyberattacks.
 
 
 <!--
