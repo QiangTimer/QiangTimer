@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-### Github Action
+### 🌱 I’m currently learning Large Language Model
+
+### 🔭 I’m currently working on Security of Open-source Ecosystem
+
+### 🔭 I’m currently applying LLM to SSC and cyberattacks.
+
 
 <!--
 **QiangTimer/QiangTimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
